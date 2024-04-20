@@ -1,0 +1,40 @@
+.navbar {
+  background-color: transparent !important;
+}
+
+.navbar-link {
+  align-items: center !important;
+  color: #1b3424 !important;
+  text-decoration: none !important;
+}
+.navbar-link.active {
+  background-color: #1b3424 !important;
+  color: White !important;
+  text-decoration: none !important;
+}
+
+.navbar-link:hover {
+  background-color: rgba(0, 0, 0, 0.1);
+}
+
+.navbar-title,
+.icon-button {
+  color: #1b3424 !important;
+}
+
+.navbar-title-md {
+  display: flex;
+}
+.adbicon {
+  fill: #1b3424 !important;
+}
+
+.navbar-button {
+  color: #1b3424 !important;
+  background-color: transparent;
+  display: block !important;
+  text-decoration: none !important;
+}
+.navbar-button.active {
+  color: White !important;
+}

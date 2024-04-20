@@ -1,0 +1,43 @@
+.footer-box {
+  height: 35vh !important;
+  position: absolute !important;
+  bottom: 0 !important;
+  width: 100% !important;
+  background-color: #13351f !important;
+  display: flex !important;
+  justify-content: center !important;
+  align-items: center !important;
+}
+.iconButton {
+  color: #fff;
+  fill: #fff;
+  row-gap: 10px;
+}
+.facebook-icon,
+.instagram-icon,
+.youtube-icon {
+  fill: #fff !important;
+}
+.input {
+  background-color: #fff;
+  border-radius: 4px;
+  padding-left: 8px;
+  margin-right: 8px;
+}
+
+.newletter-txt {
+  font-size: large !important;
+  font-weight: 500 !important;
+  font-family: "Courier New", Courier, monospace;
+  /* font-weight: bold !important; */
+}
+.sub-txt {
+  font-size: medium !important;
+  font-weight: 500 !important;
+  font-family: "Courier New", Courier, monospace;
+  font-style: italic !important;
+}
+.follow-txt {
+  font-size: large !important;
+  font-weight: 500 !important;
+}
